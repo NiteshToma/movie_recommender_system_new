@@ -1,0 +1,9 @@
+# Ignore virtual env
+.venv/
+__pycache__/
+.idea/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+exportToHTML/
